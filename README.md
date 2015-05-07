@@ -1,2 +1,5 @@
-# binday.github.io
-Bin Day UK
+# Bin Day UK
+
+List of Bin Collection Days in the UK
+
+Work in progress...
