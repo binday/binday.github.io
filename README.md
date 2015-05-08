@@ -4,6 +4,8 @@
 
 ### https://binday.uk
 
+![Bin Day Logo](binday.png)
+
 **Work in progress...**
 
 Currently there are https://www.gov.uk/rubbish-collection-day and https://www.gov.uk/recycling-collections.
